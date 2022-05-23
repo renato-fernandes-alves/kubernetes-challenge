@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  name: Renato Fernandes
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: configuration
